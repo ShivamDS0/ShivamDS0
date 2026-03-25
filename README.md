@@ -1,23 +1,80 @@
-# Hi, I'm Shivam 👋
+<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 
-🎓 BCA Graduate  
-📊 Aspiring Data Analyst / Data Science Enthusiast  
-💼 2+ years experience in Customer Service  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=BCA+Graduate;Data+Science+Enthusiast;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Building+Data+Driven+Projects" />
+</p>
 
-## 🔧 Skills
-- Excel (Advanced)
-- Power BI
-- SQL
-- Python (Basics, Pandas, NumPy)
-- Tableau
-- Web Development
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivamDS0&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-## 📈 Currently Learning
-- Data Science (IT Vedant)
+---
 
-## 📊 Projects
-- Sales Dashboard (Power BI)
-- Data Analysis using Excel
+## 👨‍💻 About Me
 
-## 📫 Connect with me
-LinkedIn: https://linkedin.com/in/shivam-yadav-ds04
+- 🎓 BCA Graduate  
+- 🌱 Learning **Data Science & Data Analytics**
+- 📊 Skilled in **Excel, Power BI, SQL, Python**
+- 💼 2+ years experience in Customer Service  
+- 🚀 Passionate about **data-driven decision making**
+- 📫 Email: **shiv484800@gmail.com**
+
+---
+
+## 🧠 Skills & Technologies
+
+### 📊 Data Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### 📈 Data Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=tableau" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+---
+
+## 📌 Projects
+
+- 📊 **Sales Dashboard**
+  - Power BI, Excel  
+  - Created interactive dashboard to track sales performance  
+
+- 📈 **Excel Data Analysis**
+  - Data cleaning, pivot tables, charts  
+  - Extracted insights from raw datasets  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamDS0&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDS0&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/shivam-yadav-ds04" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/ShivamDS0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+⭐ *“Turning data into meaningful insights.”*
