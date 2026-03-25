@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=BCA+Graduate;Data+Science+Enthusiast;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Building+Data+Driven+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=BCA+Graduate;Data+Science+Enthusiast;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Web+Developer+%7C+Programmer" />
 </p>
 
 <p align="center">
@@ -15,6 +15,8 @@
 - 🎓 BCA Graduate  
 - 🌱 Learning **Data Science & Data Analytics**
 - 📊 Skilled in **Excel, Power BI, SQL, Python**
+- 💻 Knowledge of **Web Development (HTML, CSS, JavaScript)**
+- 🧠 Programming in **C, C++, Java**
 - 💼 2+ years experience in Customer Service  
 - 🚀 Passionate about **data-driven decision making**
 - 📫 Email: **shiv484800@gmail.com**
@@ -22,6 +24,16 @@
 ---
 
 ## 🧠 Skills & Technologies
+
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### 📊 Data Analytics
 <p>
