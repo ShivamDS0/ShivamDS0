@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shivam 👋
 
-<!--
-**ShivamDS0/ShivamDS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+📊 Aspiring Data Analyst / Data Science Enthusiast  
+💼 2+ years experience in Customer Service  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Excel (Advanced)
+- Power BI
+- SQL
+- Python (Basics, Pandas, NumPy)
+- Tableau
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Currently Learning
+- Data Science (IT Vedant)
+
+## 📊 Projects
+- Sales Dashboard (Power BI)
+- Data Analysis using Excel
+
+## 📫 Connect with me
+LinkedIn: https://linkedin.com/in/shivam-yadav-ds04
